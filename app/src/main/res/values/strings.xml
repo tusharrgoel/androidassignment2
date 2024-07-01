@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name  ="welcome">Welcome</string>
+    <string name="enter_your_text">Enter your text</string>
+    <string name="update_text">Update Text</string>
+    <string name = "fetch_retro">Fetch text from Server</string>
+    <string name = "fetch_local">Fetch text from Local</string>
+    <string name="the_fetched_data_is">The fetched data is:</string>
+    <string name="fetched_data_will_appear_here">Fetched data will appear here</string>
+</resources>
